@@ -1,0 +1,30 @@
+/************ Barre de navigation  */
+
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    background-color: aqua;
+    width: 30 px;
+}
+
+.nav:hover {
+    background-color: white;
+    color: black;
+
+}
+
+.photo1 {
+    width: 30%;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    margin-left: 33%;
+    margin-bottom: 50px;
+}
+
+.paragraphe {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 15px;
+}
